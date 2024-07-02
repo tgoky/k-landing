@@ -1,0 +1,20 @@
+[
+  {
+    "name": "GitHub",
+    "url": "http://github.com/Kintsugi-Finance",
+    "router": false,
+    "homeDisplay": true
+  },
+  {
+    "name": "Twitter",
+    "url": "http://twitter.com/KintsugiFinance",
+    "router": false,
+    "homeDisplay": true
+  },
+  {
+    "name": "Documentation",
+    "url": "http://docs.kintsugi.finance/",
+    "router": false,
+    "homeDisplay": true
+  }
+]
